@@ -33,9 +33,3 @@ Check it live here: [Weather App Live Demo](https://swathi2809.github.io/weather
 - App is hosted using **GitHub Pages**.
 
 ---
-
-## Setup Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Swathi2809/weather-app.git
